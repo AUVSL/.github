@@ -20,7 +20,7 @@ AUVSL develops solutions for real world government and industry problems, with a
 
 <table>
    <tr>
-      <td><img src="../auvsl_logo_v2.svg"></td>
+      <td><img src="https://raw.githubusercontent.com/AUVSL/.github/main/auvsl_logo_v2.svg"></td>
       <td>
          <p>
          <h2>Research Themes</h2>
